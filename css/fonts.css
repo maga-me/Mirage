@@ -1,0 +1,42 @@
+/* CircularStd */
+
+@font-face {
+    src: url(../fonts/Circular_std/CircularStd-Medium.ttf);
+    font-family: 'CircularStd';
+    font-weight: 500;
+}
+
+@font-face {
+    src: url(../fonts/Circular_std/CircularStd-Book.ttf);
+    font-family: 'CircularStd';
+    font-weight: 350;
+}
+
+@font-face {
+    src: url(../fonts/Circular_std/CircularStd-Bold.ttf);
+    font-family: 'CircularStd';
+    font-weight: 700;
+}
+
+/* CircularStd */
+
+/* ProximaNova */
+
+@font-face {
+    src: url(../fonts/Proxima_Nova/ProximaNova-Bold.ttf);
+    font-family: 'ProximaNova';
+    font-weight: 700;
+}
+
+@font-face {
+    src: url(../fonts/Proxima_Nova/ProximaNova-Regular.ttf);
+    font-family: 'ProximaNova';
+    font-weight: 400;
+}
+
+/* ProximaNova */
+
+/* poppins */
+
+
+/* poppins */
